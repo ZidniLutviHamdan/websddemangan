@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CI/.idea/CI.iml" filepath="$PROJECT_DIR$/../CI/.idea/CI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TugasAkhir/.idea/TugasAkhir.iml" filepath="$PROJECT_DIR$/../TugasAkhir/.idea/TugasAkhir.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../web-sekolahh/.idea/web-sekolahh.iml" filepath="$PROJECT_DIR$/../web-sekolahh/.idea/web-sekolahh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/websdklitren.iml" filepath="$PROJECT_DIR$/.idea/websdklitren.iml" />
+    </modules>
+  </component>
+</project>
